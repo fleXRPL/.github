@@ -1,4 +1,4 @@
-# .github
+# fleXRPL GitHub Profile
 
 ## Overview
 This repository contains organization-wide GitHub configurations and health files for the fleXRPL organization. These files serve as default community health files for all repositories within our organization.
