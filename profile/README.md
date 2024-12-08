@@ -1,7 +1,39 @@
 # fleXRPL GitHub Profile
 
 ## Overview
-This repository contains organization-wide GitHub configurations and health files for the fleXRPL organization. These files serve as default community health files for all repositories within our organization.
+This repository contains organization-wide GitHub configurations and health files for the fleXRPL organization, along with comprehensive documentation and resources for our projects.
+
+## Documentation & Knowledge Base
+
+### Project Wikis
+- [AI Collaboration Master Class](https://github.com/fleXRPL/.github/wiki) - Our comprehensive guide to effective AI collaboration, featuring:
+  - Context Building
+  - Problem Decomposition
+  - Documentation Strategies
+  - Success Patterns
+  - Common Pitfalls
+  - Lessons Learned
+
+- [fleXRP Payment Gateway](https://github.com/fleXRPL/fleXRP/wiki) - Documentation for our core payment processing system:
+  - Architecture Overview
+  - Integration Guides
+  - Security Standards
+  - API Documentation
+
+- [Discord Bot Integration](https://github.com/fleXRPL/flexrpl-discord-bot/wiki) - Guide for our GitHub-Discord integration bot:
+  - Setup Instructions
+  - Command Reference
+  - Webhook Configuration
+  - Event Handling
+
+## Project Repositories
+
+### Core Projects
+- [fleXRP](https://github.com/fleXRPL/fleXRP) - Our comprehensive XRP payment gateway
+- [flexrpl-discord-bot](https://github.com/fleXRPL/flexrpl-discord-bot) - GitHub-Discord integration bot
+
+### Organization Resources
+- [.github](https://github.com/fleXRPL/.github) - Organization-wide GitHub configurations and health files
 
 ## Contents
 
@@ -61,4 +93,4 @@ This repository is licensed under [MIT License](LICENSE).
 
 ---
 
-*Maintained by the fleXRPL team*
+*Maintained by the fleXRP team*
