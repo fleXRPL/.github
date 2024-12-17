@@ -14,6 +14,13 @@ This repository contains organization-wide GitHub configurations and health file
   - Common Pitfalls
   - Lessons Learned
 
+- [RunOn!](https://github.com/fleXRPL/RunOn/wiki) - Documentation for our running event discovery app:
+  - Project Planning
+  - Technical Architecture
+  - API Documentation
+  - Infrastructure (GCP/AWS)
+  - Development Guides
+
 - [fleXRP Payment Gateway](https://github.com/fleXRPL/fleXRP/wiki) - Documentation for our core payment processing system:
   - Architecture Overview
   - Integration Guides
@@ -29,6 +36,7 @@ This repository contains organization-wide GitHub configurations and health file
 ## Project Repositories
 
 ### Core Projects
+- [RunOn!](https://github.com/fleXRPL/RunOn) - Running event discovery mobile app
 - [fleXRP](https://github.com/fleXRPL/fleXRP) - Our comprehensive XRP payment gateway
 - [flexrpl-discord-bot](https://github.com/fleXRPL/flexrpl-discord-bot) - GitHub-Discord integration bot
 
