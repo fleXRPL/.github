@@ -14,6 +14,14 @@ This repository contains organization-wide GitHub configurations and health file
   - Common Pitfalls
   - Lessons Learned
 
+- [Cursor Rules Dynamic](https://github.com/fleXRPL/cursor-rules-dynamic/wiki) - Documentation for our VSCode extension for dynamic `.cursorrules` management:
+  - MVP Documentation
+  - Architecture Overview
+  - Implementation Details
+  - Testing Strategy
+  - Development Guides
+  - Script Documentation
+
 - [RunOn!](https://github.com/fleXRPL/RunOn/wiki) - Documentation for our running event discovery app:
   - Project Planning
   - Technical Architecture
@@ -39,6 +47,7 @@ This repository contains organization-wide GitHub configurations and health file
 - [RunOn!](https://github.com/fleXRPL/RunOn) - Running event discovery mobile app
 - [fleXRP](https://github.com/fleXRPL/fleXRP) - Our comprehensive XRP payment gateway
 - [flexrpl-discord-bot](https://github.com/fleXRPL/flexrpl-discord-bot) - GitHub-Discord integration bot
+- [cursor-rules-dynamic](https://github.com/fleXRPL/cursor-rules-dynamic) - VSCode extension for dynamic `.cursorrules` management
 
 ### Organization Resources
 - [.github](https://github.com/fleXRPL/.github) - Organization-wide GitHub configurations and health files
