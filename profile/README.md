@@ -14,6 +14,14 @@ This repository contains organization-wide GitHub configurations and health file
   - Common Pitfalls
   - Lessons Learned
 
+- [GitHub Authentication Library](https://github.com/fleXRPL/githubauthlib/wiki) - Documentation for our cross-platform GitHub token management library:
+  - Architecture Overview
+  - Installation Guide
+  - Usage Examples
+  - Security Best Practices
+  - API Reference
+  - Development Setup
+
 - [Cursor Rules Dynamic](https://github.com/fleXRPL/cursor-rules-dynamic/wiki) - Documentation for our VSCode extension for dynamic `.cursorrules` management:
   - MVP Documentation
   - Architecture Overview
