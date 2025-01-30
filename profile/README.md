@@ -2,7 +2,7 @@
 
 [![Organization Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/fleXRPL)
 [![Projects](https://img.shields.io/badge/Projects-6_Active-blue)](https://github.com/orgs/fleXRPL/repositories)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/fleXRPL/githubauthlib/blob/main/LICENSE)
 [![Discussions](https://img.shields.io/badge/Discussions-Active-green)](https://github.com/orgs/fleXRPL/discussions)
 
 > Building innovative solutions for the XRP Ledger ecosystem with a focus on developer tools, payment systems, and community engagement.
