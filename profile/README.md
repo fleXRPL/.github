@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fleXRPL/fleXRP/main/assets/xrp-logo.svg" alt="fleXRPL Logo" width="40"/>
+  <img src="https://raw.githubusercontent.com/fleXRPL/fleXRP/main/assets/xrp-logo.svg" alt="fleXRPL Logo" width="100"/>
   <h1 align="center">fleXRPL Organization</h1>
 </p>
 
