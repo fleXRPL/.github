@@ -31,7 +31,7 @@
 | 💳 fleXRP Gateway | 🔑 GitHub Auth Library | 🏃 RunOn! |
 |:---:|:---:|:---:|
 | Comprehensive XRP payment processing system | Cross-platform GitHub token management | Running event discovery mobile app |
-| [![fleXRP Wiki](https://img.shields.io/badge/📖_fleXRP_Gateway-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/fleXRP/wiki) | [![Auth Wiki](https://img.shields.io/badge/📖_GitHub_Auth_Library-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/githubauthlib/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-blue?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/githubauthlib/) | [![RunOn Wiki](https://img.shields.io/badge/📖_RunOn!-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/RunOn/wiki) |
+| [![fleXRP Wiki](https://img.shields.io/badge/📖_fleXRP_Gateway-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/fleXRP/wiki) | [![Auth Wiki](https://img.shields.io/badge/📖_GitHub_Auth_Library-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/githubauthlib/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/githubauthlib/) | [![RunOn Wiki](https://img.shields.io/badge/📖_RunOn!-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/RunOn/wiki) |
 
 </div>
 
