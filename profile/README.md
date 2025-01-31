@@ -9,7 +9,7 @@
 
 ## 📚 Documentation & Knowledge Base
 
-[📖 Browse Our Wiki](https://github.com/fleXRPL/.github/wiki) • [🛠️ Development Guide](https://github.com/fleXRPL/.github/wiki/Development-Setup) • [📋 Best Practices](https://github.com/fleXRPL/.github/wiki/Best-Practices)
+[📖 Browse Our Wiki](https://github.com/fleXRPL/.github/wiki) • [📝 Documentation Strategies](https://github.com/fleXRPL/.github/wiki/Documentation-Strategies) • [🔍 Success Patterns](https://github.com/fleXRPL/.github/wiki/Success-Patterns)
 
 ### 🌟 Featured Projects
 
@@ -73,13 +73,13 @@
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/fleXRPL/.github/wiki">🎓 AI Collaboration Guide</a>
+<a href="https://github.com/fleXRPL/.github/wiki/Context-Building">🎓 Context Building Guide</a>
 </td>
 <td align="center">
 <a href="https://github.com/orgs/fleXRPL/discussions">💬 Community Discussions</a>
 </td>
 <td align="center">
-<a href="https://github.com/fleXRPL/fleXRP/blob/main/CONTRIBUTING.md">👥 Contributing Guide</a>
+<a href="https://github.com/fleXRPL/.github/wiki/Problem-Decomposition">🔧 Problem Decomposition</a>
 </td>
 </tr>
 </table>
