@@ -2,12 +2,14 @@
 
 [![Organization Status](https://img.shields.io/badge/Status-Active-success)](https://github.com/fleXRPL)
 [![Projects](https://img.shields.io/badge/Projects-6_Active-blue)](https://github.com/orgs/fleXRPL/repositories)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/fleXRPL/githubauthlib/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/fleXRPL/.github/wiki/LICENSE)
 [![Discussions](https://img.shields.io/badge/Discussions-Active-green)](https://github.com/orgs/fleXRPL/discussions)
 
 > Building innovative solutions for the XRP Ledger ecosystem with a focus on developer tools, payment systems, and community engagement.
 
 ## 📚 Documentation & Knowledge Base
+
+[📖 Browse Our Wiki](https://github.com/fleXRPL/.github/wiki) • [🛠️ Development Guide](https://github.com/fleXRPL/.github/wiki/Development-Setup) • [📋 Best Practices](https://github.com/fleXRPL/.github/wiki/Best-Practices)
 
 ### 🌟 Featured Projects
 
@@ -104,6 +106,6 @@ We welcome contributions! Here's how you can help:
 
 **Built with ❤️ by the fleXRP team**
 
-[License](LICENSE) • [Security](SECURITY.md) • [Support](SUPPORT.md)
+[License](https://github.com/fleXRPL/.github/wiki/LICENSE) • [Security](https://github.com/fleXRPL/.github/wiki/SECURITY) • [Support](https://github.com/fleXRPL/.github/wiki/SUPPORT)
 
 </div>
