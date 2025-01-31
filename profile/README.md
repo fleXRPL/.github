@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/fleXRPL/fleXRP/main/assets/xrp-logo.svg" alt="fleXRPL Logo" width="40" align="center"/> fleXRPL Organization
-
 <div align="center">
+
+# <img src="https://raw.githubusercontent.com/fleXRPL/fleXRP/main/assets/xrp-logo.svg" alt="fleXRPL Logo" width="40" align="center"/> fleXRPL Organization
 
 [![Organization Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&logoColor=white&color=23292e)](https://github.com/fleXRPL)
 [![Projects](https://img.shields.io/badge/Projects-6_Active-blue?style=for-the-badge&logo=github&logoColor=white&color=23292e)](https://github.com/orgs/fleXRPL/repositories)
