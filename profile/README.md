@@ -1,11 +1,14 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fleXRPL/fleXRP/main/assets/xrp-logo.svg" alt="fleXRPL Logo" width="40"/>
+  <h1 align="center">fleXRPL Organization</h1>
+</p>
+
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/fleXRPL/fleXRP/main/assets/xrp-logo.svg" alt="fleXRPL Logo" width="40" align="center"/> fleXRPL Organization
-
-[![Organization Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&logoColor=white&color=23292e)](https://github.com/fleXRPL)
-[![Projects](https://img.shields.io/badge/Projects-6_Active-blue?style=for-the-badge&logo=github&logoColor=white&color=23292e)](https://github.com/orgs/fleXRPL/repositories)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=github&logoColor=white&color=23292e)](https://github.com/fleXRPL/.github/wiki/LICENSE)
-[![Discussions](https://img.shields.io/badge/Discussions-Active-green?style=for-the-badge&logo=github&logoColor=white&color=23292e)](https://github.com/orgs/fleXRPL/discussions)
+[![Organization Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&color=2ea043)](https://github.com/fleXRPL)
+[![Projects](https://img.shields.io/badge/Projects-6_Active-blue?style=for-the-badge&logo=github&color=0969da)](https://github.com/orgs/fleXRPL/repositories)
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=github&color=dbab09)](https://github.com/fleXRPL/.github/wiki/LICENSE)
+[![Discussions](https://img.shields.io/badge/Discussions-Active-green?style=for-the-badge&logo=github&color=238636)](https://github.com/orgs/fleXRPL/discussions)
 
 *Building innovative solutions for the XRP Ledger ecosystem with a focus on developer tools, payment systems, and community engagement.*
 
