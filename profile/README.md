@@ -18,9 +18,9 @@
 
 <div align="center">
 
-[📖 Browse Our Wiki](https://github.com/fleXRPL/.github/wiki) • 
-[📝 Documentation Strategies](https://github.com/fleXRPL/.github/wiki/Documentation-Strategies) • 
-[🔍 Success Patterns](https://github.com/fleXRPL/.github/wiki/Success-Patterns)
+[![Browse Wiki](https://img.shields.io/badge/📖_Browse_Wiki-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/.github/wiki)
+[![Documentation](https://img.shields.io/badge/📝_Documentation-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/.github/wiki/Documentation-Strategies)
+[![Success Patterns](https://img.shields.io/badge/🔍_Success_Patterns-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/.github/wiki/Success-Patterns)
 
 </div>
 
@@ -31,7 +31,7 @@
 | 💳 fleXRP Gateway | 🔑 GitHub Auth Library | 🏃 RunOn! |
 |:---:|:---:|:---:|
 | Comprehensive XRP payment processing system | Cross-platform GitHub token management | Running event discovery mobile app |
-| [📖 fleXRP WIKI](https://github.com/fleXRPL/fleXRP/wiki) | [📖 githubauthlib WIKI](https://github.com/fleXRPL/githubauthlib/wiki) | [📖 RunOn WIKI](https://github.com/fleXRPL/RunOn/wiki) |
+| [![fleXRP Wiki](https://img.shields.io/badge/📖_fleXRP_Gateway-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/fleXRP/wiki) | [![Auth Wiki](https://img.shields.io/badge/📖_GitHub_Auth_Library-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/githubauthlib/wiki) | [![RunOn Wiki](https://img.shields.io/badge/📖_RunOn!-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/RunOn/wiki) |
 
 </div>
 
@@ -42,7 +42,7 @@
 | ⚡ Cursor Rules Dynamic | 🤖 Discord Bot |
 |:---:|:---:|
 | VSCode extension for dynamic .cursorrules management | GitHub-Discord integration bot |
-| [📖 cursor-rules-dynamic WIKI](https://github.com/fleXRPL/cursor-rules-dynamic/wiki) | [📖 flecrpl-discord-bot WIKI](https://github.com/fleXRPL/flexrpl-discord-bot/wiki) |
+| [![Cursor Rules Wiki](https://img.shields.io/badge/📖_Cursor_Rules_Dynamic-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/cursor-rules-dynamic/wiki) | [![Discord Bot Wiki](https://img.shields.io/badge/📖_Discord_Bot-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/flexrpl-discord-bot/wiki) |
 
 </div>
 
