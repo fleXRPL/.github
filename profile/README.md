@@ -1,4 +1,4 @@
-# <img src="assets/fleXRPL.png" alt="fleXRPL Logo" width="120" align="center"/> fleXRPL Organization
+# <img src="https://raw.githubusercontent.com/fleXRPL/fleXRP/main/assets/xrp-logo.svg" alt="fleXRPL Logo" width="40" align="center"/> fleXRPL Organization
 
 <div align="center">
 
