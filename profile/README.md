@@ -90,8 +90,7 @@
 
 ## 🤝 Contributing
 
-
-We welcome contributions! Here's how you can help:
+We welcome contributions! Here's how you can help:<br>
 <br>
 🔍 Explore our [projects](https://github.com/orgs/fleXRPL/repositories)<br>
 📖 Read our [contributing guidelines](https://github.com/fleXRPL/fleXRP/blob/main/CONTRIBUTING.md)<br>
