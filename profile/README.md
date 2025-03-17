@@ -6,7 +6,7 @@
 <div align="center">
 
 [![Organization Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&color=2ea043)](https://github.com/fleXRPL)
-[![Projects](https://img.shields.io/badge/Projects-6_Active-blue?style=for-the-badge&logo=github&color=0969da)](https://github.com/orgs/fleXRPL/repositories)
+[![Projects](https://img.shields.io/badge/Projects-9_Active-blue?style=for-the-badge&logo=github&color=0969da)](https://github.com/orgs/fleXRPL/repositories)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=github&color=dbab09)](https://github.com/fleXRPL/.github/wiki/LICENSE)
 [![Discussions](https://img.shields.io/badge/Discussions-Active-green?style=for-the-badge&logo=github&color=238636)](https://github.com/orgs/fleXRPL/discussions)
 
@@ -42,6 +42,17 @@
 |:---:|:---:|:---:|:---:|
 | Cross-platform GitHub token management | Automated Datadog dashboard deployment tool | Automated Datadog monitor deployment tool | Automated Datadog healthcheck deployment tool |
 | [![Auth Wiki](https://img.shields.io/badge/📖_GitHub_Auth_Library-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/githubauthlib/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/githubauthlib/) | [![Dashboard Wiki](https://img.shields.io/badge/📖_Dashboard_Deployer-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/datadog-dashboard-deployer/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/datadog-dashboard-deployer/) | [![Monitor Wiki](https://img.shields.io/badge/📖_Monitor_Deployer-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/datadog-monitor-deployer/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/datadog-monitor-deployer/) | [![Healthcheck Wiki](https://img.shields.io/badge/📖_Healthcheck_Deployer-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/datadog-healthcheck-deployer/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/datadog-healthcheck-deployer/) |
+</div>
+
+<div align="center">
+
+## 📚 New Projects
+
+| ✒️ IconInk | 🏃 RunOn! |
+|:---:|:---:|
+| Digitial consent forms | Discover & mnage local running events |
+| [![IconInk Wiki](https://img.shields.io/badge/📖_iconink-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/iconink/wiki) | [![RunOn Wiki](https://img.shields.io/badge/📖_RunOn-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/RunOn/wiki) |
+
 </div>
 
 <div align="center">
