@@ -14,9 +14,9 @@
 
 </div>
 
-## 📚 Documentation & Knowledge Base
-
 <div align="center">
+
+## 📚 Documentation & Knowledge Base
 
 [![Browse Wiki](https://img.shields.io/badge/📖_Browse_Wiki-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/.github/wiki)
 [![Documentation](https://img.shields.io/badge/📝_Documentation-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/.github/wiki/Documentation-Strategies)
@@ -24,20 +24,29 @@
 
 </div>
 
-## 🌟 Featured Projects
-
 <div align="center">
 
-| 💳 fleXRP Gateway | 🔑 GitHub Auth Library | 📊 Datadog Dashboard Deployer | 🏃 RunOn! |
-|:---:|:---:|:---:|:---:|
-| Comprehensive XRP payment processing system | Cross-platform GitHub token management | Automated Datadog dashboard deployment tool | Running event discovery mobile app |
-| [![fleXRP Wiki](https://img.shields.io/badge/📖_fleXRP_Gateway-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/fleXRP/wiki) | [![Auth Wiki](https://img.shields.io/badge/📖_GitHub_Auth_Library-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/githubauthlib/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/githubauthlib/) | [![Dashboard Wiki](https://img.shields.io/badge/📖_Dashboard_Deployer-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/datadog-dashboard-deployer/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/datadog-dashboard-deployer/) | [![RunOn Wiki](https://img.shields.io/badge/📖_RunOn!-28a745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/RunOn/wiki) |
+## 📚 Core Project
 
+| 🌟 fleXRP Gateway |
+|:---:|
+| Comprehensive XRP payment processing system |
+| [![fleXRP Wiki](https://img.shields.io/badge/🌟_fleXRP_Gateway-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/fleXRP/wiki) |
 </div>
 
-## 🛠️ Developer Tools
+<div align="center">
+
+## 📚 Featured Projects
+
+| 🔑 GitHub Auth Library | 📊 Datadog Dashboard Deployer | 📊 DataDog Monitor Deployer | 📊 DataDog Healthcheck Deployer |
+|:---:|:---:|:---:|:---:|
+| Cross-platform GitHub token management | Automated Datadog dashboard deployment tool | Automated Datadog monitor deployment tool | Automated Datadog healthcheck deployment tool |
+| [![Auth Wiki](https://img.shields.io/badge/📖_GitHub_Auth_Library-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/githubauthlib/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/githubauthlib/) | [![Dashboard Wiki](https://img.shields.io/badge/📖_Dashboard_Deployer-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/datadog-dashboard-deployer/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/datadog-dashboard-deployer/) | [![Monitor Wiki](https://img.shields.io/badge/📖_Monitor_Deployer-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/datadog-monitor-deployer/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/datadog-monitor-deployer/) | [![Healthcheck Wiki](https://img.shields.io/badge/📖_Healthcheck_Deployer-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/datadog-healthcheck-deployer/wiki)<br>[![PyPI](https://img.shields.io/badge/📦_PyPI_Package-1.0.1-orange?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/datadog-healthcheck-deployer/) |
+</div>
 
 <div align="center">
+
+## 🛠️ Developer Tools
 
 | ⚡ Cursor Rules Dynamic | 🤖 Discord Bot |
 |:---:|:---:|
@@ -46,9 +55,9 @@
 
 </div>
 
-## 🔧 Development Resources
-
 <div align="center">
+
+## 🔧 Development Resources
 
 [![Code Style](https://img.shields.io/badge/Code_Style-Black-000000?style=for-the-badge&logo=python&logoColor=white)](https://github.com/psf/black)
 [![Testing](https://img.shields.io/badge/Testing-100%25_Coverage-success?style=for-the-badge&logo=sonarcloud&logoColor=white)](https://sonarcloud.io/)
@@ -56,20 +65,20 @@
 
 <details>
 <summary><b>📋 Organization Standards</b></summary>
-
-- ✨ Consistent code style with Black
-- 🧪 100% test coverage requirement
-- 🔒 Automated security scanning
-- 📊 SonarCloud integration
-- 🤖 Dependabot enabled
-- 📝 Comprehensive documentation
+<br>
+✨ Consistent code style with Black<br>
+🧪 100% test coverage requirement<br>
+🔒 Automated security scanning<br>
+📊 SonarCloud integration<br>
+🤖 Dependabot enabled<br>
+📝 Comprehensive documentation<br>
 
 </details>
 </div>
 
-## Quick Links
-
 <div align="center">
+
+## Quick Links
 
 [![Context Guide](https://img.shields.io/badge/🎓_Context_Building-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleXRPL/.github/wiki/Context-Building)
 [![Discussions](https://img.shields.io/badge/💬_Community_Hub-2188ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/fleXRPL/discussions)
@@ -77,19 +86,24 @@
 
 </div>
 
+<div align="center">
+
 ## 🤝 Contributing
 
+
 We welcome contributions! Here's how you can help:
+<br>
+🔍 Explore our [projects](https://github.com/orgs/fleXRPL/repositories)<br>
+📖 Read our [contributing guidelines](https://github.com/fleXRPL/fleXRP/blob/main/CONTRIBUTING.md)<br>
+🌟 Star repositories you find interesting<br>
+🐛 Report issues or suggest improvements<br>
+💻 Submit pull requests<br>
 
-1. 🔍 Explore our [projects](https://github.com/orgs/fleXRPL/repositories)
-2. 📖 Read our [contributing guidelines](https://github.com/fleXRPL/fleXRP/blob/main/CONTRIBUTING.md)
-3. 🌟 Star repositories you find interesting
-4. 🐛 Report issues or suggest improvements
-5. 💻 Submit pull requests
-
-## 📬 Contact
+</div>
 
 <div align="center">
+
+## 📬 Contact
 
 [🎯 Open an issue](https://github.com/fleXRPL/.github/issues) •
 [💬 Join discussions](https://github.com/orgs/fleXRPL/discussions) •
