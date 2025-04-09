@@ -26,7 +26,7 @@
 
 <div align="center">
 
-## 📚 Core Project
+## 📚 Concept Project
 
 | 🌟 fleXRP Gateway |
 |:---:|
