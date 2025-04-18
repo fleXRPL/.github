@@ -3,7 +3,7 @@
   <h1 align="center">fleXRPL Organization</h1>
 </p>
 
-<div align="center">
+<div align="center" style="background-color: #f0f0f0; padding: 20px;">
 
 [![Organization Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github&color=2ea043)](https://github.com/fleXRPL)
 [![Projects](https://img.shields.io/badge/Projects-9_Active-blue?style=for-the-badge&logo=github&color=0969da)](https://github.com/orgs/fleXRPL/repositories)
